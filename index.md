@@ -15,7 +15,7 @@ Yüzeyde yüzenlere değil, derine dalanlara.
 
 - [IJP OLED Rehberi](https://panormos1965.github.io/2026-08-21-ijp-oled-rehberi.html)
 - [Sıvı Kristal Rehberi](https://panormos1965.github.io/2026-08-21-sivi-kristal-rehberi.html)
-
+- [LCD Rehberi: Temel Yapı, Panel Tipleri ve Tüm Detaylar](https://panormos1965.github.io/2026-09-24-lcd-rehberi.html)
 ---
 
 ## 👤 Hakkında

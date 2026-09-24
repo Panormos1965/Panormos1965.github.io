@@ -5,9 +5,9 @@ title: LearnHardware
 
 # 🖥️ LearnHardware
 
-**Donanımı öğren. Derinlemesine.**
+**Donanımı öğren. Doğruca**
 
-Yüzeyde yüzenlere değil, derine dalanlara.
+Kısa Uzun Karışık Rehberler ve İçerikler Vaktim Oldukça Genişleteceğim.
 
 ---
 
@@ -23,8 +23,6 @@ Yüzeyde yüzenlere değil, derine dalanlara.
 
 ## 👤 Hakkında
 
-Bu site, donanımın az bilinen, derin konularını Türkçe olarak anlatmak için kuruldu.
-
-Amaç: Türkçe'de eksik olan derin teknik içeriği üretmek.
+Amaç: Türkçe'de eksik olan bazı teknik Rehberleri yazmak ve kazandırmak yazılar el yazısıdır.
 
 ---
